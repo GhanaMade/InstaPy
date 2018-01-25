@@ -99,3 +99,4 @@ ENV/
 # Editors
 .idea
 .vscode
+quickstart.py
